@@ -1,4 +1,1 @@
-Vagrantfile-Collection-Reference
-================================
-
-Collection Vagrantfile for reference and study
+Vagrantfile for reference
